@@ -2,8 +2,7 @@
 A simple FAT 32 parser
 
 # Download
-A test FAT32 image file
-http://www.cs.uni.edu/~diesburg/courses/cop4610_fall10/week10/fat32.img
+A test <a href="http://www.cs.uni.edu/~diesburg/courses/cop4610_fall10/week10/fat32.img">FAT32 Image</a> file
 
 # Run
 1. gcc -w -o main.c main
